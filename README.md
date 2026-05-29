@@ -33,7 +33,7 @@ ollama pull phi3
 ollama pull nomic-embed-text
 ```
 
-## ⚙️ Installation & Configuration
+## Installation & Configuration
 
 **1. Cloner le dépôt :**
 ```bash
@@ -93,7 +93,7 @@ Ouvrez votre navigateur web et rendez-vous sur : http://localhost:7860
 ## Structure du Projet
 
 ```text
-� Chatbot-RAG-Referentiel-Formation-Dev-IA
+ Chatbot-RAG-Referentiel-Formation-Dev-IA
  ┣ 📂 data/              # ⚠️ Dossier contenant le PDF du référentiel (à créer)
  ┣ 📂 vector_store/      # Bases de données vectorielles FAISS générées
  ┣ 📜 app.py             # Script principal (Interface Gradio & Logique RAG)

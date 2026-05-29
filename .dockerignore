@@ -1,0 +1,22 @@
+# Fichiers et dossiers à ignorer par Docker
+
+# Dépendances et caches Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.venv/
+
+# Fichiers de configuration de l'IDE
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Fichiers d'environnement (ne jamais les inclure dans l'image)
+.env
+*.md

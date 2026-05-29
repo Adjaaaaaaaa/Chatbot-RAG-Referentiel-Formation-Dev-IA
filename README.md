@@ -94,7 +94,7 @@ Ouvrez votre navigateur web et rendez-vous sur : http://localhost:7860
 
 ```text
  Chatbot-RAG-Referentiel-Formation-Dev-IA
- ┣ 📂 data/              # ⚠️ Dossier contenant le PDF du référentiel (à créer)
+ ┣ 📂 data/              # Dossier contenant le PDF du référentiel (à créer)
  ┣ 📂 vector_store/      # Bases de données vectorielles FAISS générées
  ┣ 📜 app.py             # Script principal (Interface Gradio & Logique RAG)
  ┣ 📜 ingest.py          # Script d'ingestion et de découpage du PDF
